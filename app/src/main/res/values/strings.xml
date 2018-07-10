@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Audio_Recorder</string>
+    <string name="action_settings">Settings</string>
+    <string name="library_name">Waveform</string>
+</resources>
